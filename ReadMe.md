@@ -2,8 +2,9 @@
 🔭 I’m currently working on Experimenting with various gameplay mechanics to create innovative and engaging experiences.<br>👯 I’m looking to collaborate on Game Development Projects<br>🤝 I’m looking for help with Level design, art assets, or sound design to enhance the game's overall experience.<br>🌱 I’m currently learning Advanced Unity techniques and exploring ways to integrate more complex AI behaviors into games.<br>💬 Ask me about C# programming, Unity game development, or tips for passing the Unity Associate Programmer certification.<br>⚡ Fun fact, My favorite games are the Persona series, Final Fantasy X, and Monster Hunter, which inspire my love for combining deep storytelling with immersive gameplay and complex mechanics.
 
 Game Demo Quick Access: <br>
-UndeadSurvivor - https://akbarfauzy.github.io/UndeadSurvivor/ <br>
-GalaxyFuelUp - https://akbarfauzy.github.io/Galaxy-FuelUp/ <br>
+Undead Survivor - https://akbarfauzy.github.io/UndeadSurvivor/ <br>
+Galaxy Fuel Up - https://akbarfauzy.github.io/Galaxy-FuelUp/ <br>
+Endless Adventure - https://akbarfauzy.github.io/Endless_Adventure/ <br>
 Topview Golf - https://akbarfauzy.github.io/Construct3_Topview_Golf/ <br>
 Gameplay Experiment Video Demo - https://drive.google.com/drive/folders/1DXmdgv7ab8dnQ0lBdHdPIB-6Xj_KtsH9?usp=sharing <br>
 
