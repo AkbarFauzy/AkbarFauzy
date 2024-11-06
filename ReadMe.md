@@ -5,7 +5,7 @@ Game Demo Quick Access: <br>
 UndeadSurvivor - https://akbarfauzy.github.io/UndeadSurvivor/ <br>
 GalaxyFuelUp - https://akbarfauzy.github.io/Galaxy-FuelUp/ <br>
 Topview Golf - https://akbarfauzy.github.io/Construct3_Topview_Golf/ <br>
-GamePlay Experiment Video Demo - https://drive.google.com/drive/folders/1DXmdgv7ab8dnQ0lBdHdPIB-6Xj_KtsH9?usp=sharing <br>
+Gameplay Experiment Video Demo - https://drive.google.com/drive/folders/1DXmdgv7ab8dnQ0lBdHdPIB-6Xj_KtsH9?usp=sharing <br>
 
 ## 🌐 Socials:
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/psy_ruu) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/akbarfauzy/) 
